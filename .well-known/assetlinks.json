@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.baoviet.mybvlife",
+      "sha256_cert_fingerprints": [
+        "8C:55:A7:51:9B:41:20:2F:C2:35:CD:4F:C5:F3:A9:2C:83:BF:C1:48:A2:8F:00:A0:F0:BC:E7:2F:82:D4:AF:0C"
+      ]
+    }
+  }
+]
